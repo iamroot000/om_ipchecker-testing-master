@@ -1,0 +1,287 @@
+DEBUG 2021-10-04 00:39:01,831 - ####################################################################################################
+DEBUG 2021-10-04 00:39:01,837 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 00:39:01,837 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 00:39:02,045 - ####################################################################################################
+DEBUG 2021-10-04 00:39:02,050 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 00:39:02,050 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 01:39:02,936 - ####################################################################################################
+DEBUG 2021-10-04 01:39:02,941 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 01:39:02,941 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 01:39:03,989 - ####################################################################################################
+DEBUG 2021-10-04 01:39:03,994 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 01:39:03,995 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 02:39:01,293 - ####################################################################################################
+DEBUG 2021-10-04 02:39:01,299 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 02:39:01,300 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 02:39:01,617 - ####################################################################################################
+DEBUG 2021-10-04 02:39:01,622 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 02:39:01,622 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 03:39:03,030 - ####################################################################################################
+DEBUG 2021-10-04 03:39:03,035 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 03:39:03,036 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 03:39:03,295 - ####################################################################################################
+DEBUG 2021-10-04 03:39:03,301 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 03:39:03,301 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 04:39:01,305 - ####################################################################################################
+DEBUG 2021-10-04 04:39:01,311 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 04:39:01,312 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 04:39:02,107 - ####################################################################################################
+DEBUG 2021-10-04 04:39:02,112 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 04:39:02,113 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 05:39:02,017 - ####################################################################################################
+DEBUG 2021-10-04 05:39:02,023 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 05:39:02,023 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 05:39:02,787 - ####################################################################################################
+DEBUG 2021-10-04 05:39:02,792 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 05:39:02,793 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 05:39:20,927 - ####################################################################################################
+DEBUG 2021-10-04 05:39:20,932 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 05:39:20,932 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 06:39:01,873 - ####################################################################################################
+DEBUG 2021-10-04 06:39:01,879 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 06:39:01,879 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 06:39:02,393 - ####################################################################################################
+DEBUG 2021-10-04 06:39:02,398 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 06:39:02,398 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 06:39:18,631 - ####################################################################################################
+DEBUG 2021-10-04 06:39:18,637 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 06:39:18,637 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 07:39:03,913 - ####################################################################################################
+DEBUG 2021-10-04 07:39:03,918 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 07:39:03,919 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 07:39:04,037 - ####################################################################################################
+DEBUG 2021-10-04 07:39:04,042 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 07:39:04,042 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 07:39:20,511 - ####################################################################################################
+DEBUG 2021-10-04 07:39:20,517 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 07:39:20,517 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 08:39:02,369 - ####################################################################################################
+DEBUG 2021-10-04 08:39:02,375 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 08:39:02,375 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 08:39:05,052 - ####################################################################################################
+DEBUG 2021-10-04 08:39:05,058 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 08:39:05,058 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 08:39:20,690 - ####################################################################################################
+DEBUG 2021-10-04 08:39:20,695 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 08:39:20,695 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 09:39:01,613 - ####################################################################################################
+DEBUG 2021-10-04 09:39:01,618 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 09:39:01,619 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 09:39:01,994 - ####################################################################################################
+DEBUG 2021-10-04 09:39:02,000 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 09:39:02,000 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 09:39:20,085 - ####################################################################################################
+DEBUG 2021-10-04 09:39:20,090 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 09:39:20,090 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 10:39:04,629 - ####################################################################################################
+DEBUG 2021-10-04 10:39:04,635 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 10:39:04,635 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 10:39:06,382 - ####################################################################################################
+DEBUG 2021-10-04 10:39:06,387 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 10:39:06,388 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-04 10:39:15,712 - ####################################################################################################
+DEBUG 2021-10-04 10:39:15,717 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 10:39:15,717 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 11:39:17,084 - ####################################################################################################
+DEBUG 2021-10-04 11:39:17,090 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 11:39:17,090 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 12:39:19,141 - ####################################################################################################
+DEBUG 2021-10-04 12:39:19,146 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 12:39:19,147 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 13:39:18,256 - ####################################################################################################
+DEBUG 2021-10-04 13:39:18,260 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 13:39:18,261 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 14:39:18,978 - ####################################################################################################
+DEBUG 2021-10-04 14:39:18,983 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 14:39:18,983 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-04 15:39:18,831 - ####################################################################################################
+DEBUG 2021-10-04 15:39:18,836 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 15:39:18,836 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 16:39:20,071 - ####################################################################################################
+DEBUG 2021-10-04 16:39:20,076 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 16:39:20,077 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 17:39:18,117 - ####################################################################################################
+DEBUG 2021-10-04 17:39:18,122 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 17:39:18,122 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 18:39:18,692 - ####################################################################################################
+DEBUG 2021-10-04 18:39:18,697 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 18:39:18,697 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 19:39:16,561 - ####################################################################################################
+DEBUG 2021-10-04 19:39:16,567 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 19:39:16,567 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 20:39:15,565 - ####################################################################################################
+DEBUG 2021-10-04 20:39:15,570 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 20:39:15,570 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 21:39:19,618 - ####################################################################################################
+DEBUG 2021-10-04 21:39:19,623 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 21:39:19,623 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 22:39:13,905 - ####################################################################################################
+DEBUG 2021-10-04 22:39:13,911 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 22:39:13,911 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-04 23:39:14,888 - ####################################################################################################
+DEBUG 2021-10-04 23:39:14,893 - DOMAIN PYTHON ERROR
+INFO 2021-10-04 23:39:14,894 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}

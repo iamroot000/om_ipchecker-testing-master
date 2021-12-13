@@ -1,0 +1,168 @@
+DEBUG 2021-10-19 00:43:35,887 - ####################################################################################################
+DEBUG 2021-10-19 00:43:35,892 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 00:43:35,892 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 00:43:36,931 - ####################################################################################################
+DEBUG 2021-10-19 00:43:36,936 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 00:43:36,937 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 00:48:29,025 - ####################################################################################################
+DEBUG 2021-10-19 00:48:29,031 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 00:48:29,031 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 00:48:29,592 - ####################################################################################################
+DEBUG 2021-10-19 00:48:29,598 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 00:48:29,599 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 01:43:33,202 - ####################################################################################################
+DEBUG 2021-10-19 01:43:33,207 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 01:43:33,208 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 01:43:34,170 - ####################################################################################################
+DEBUG 2021-10-19 01:43:34,176 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 01:43:34,176 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 01:48:33,502 - ####################################################################################################
+DEBUG 2021-10-19 01:48:33,508 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 01:48:33,509 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 01:48:33,991 - ####################################################################################################
+DEBUG 2021-10-19 01:48:33,996 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 01:48:33,997 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 02:43:32,496 - ####################################################################################################
+DEBUG 2021-10-19 02:43:32,502 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 02:43:32,502 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 02:43:33,567 - ####################################################################################################
+DEBUG 2021-10-19 02:43:33,573 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 02:43:33,573 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 02:48:33,908 - ####################################################################################################
+DEBUG 2021-10-19 02:48:33,914 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 02:48:33,914 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 02:48:34,739 - ####################################################################################################
+DEBUG 2021-10-19 02:48:34,746 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 02:48:34,746 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 03:43:36,013 - ####################################################################################################
+DEBUG 2021-10-19 03:43:36,019 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 03:43:36,019 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 03:43:36,240 - ####################################################################################################
+DEBUG 2021-10-19 03:43:36,245 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 03:43:36,246 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 03:48:29,612 - ####################################################################################################
+DEBUG 2021-10-19 03:48:29,618 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 03:48:29,618 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 03:48:30,682 - ####################################################################################################
+DEBUG 2021-10-19 03:48:30,688 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 03:48:30,689 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 04:43:34,261 - ####################################################################################################
+DEBUG 2021-10-19 04:43:34,267 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 04:43:34,267 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 04:43:34,908 - ####################################################################################################
+DEBUG 2021-10-19 04:43:34,913 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 04:43:34,914 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 77
+}
+DEBUG 2021-10-19 04:48:31,252 - ####################################################################################################
+DEBUG 2021-10-19 04:48:31,258 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 04:48:31,258 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 04:48:32,230 - ####################################################################################################
+DEBUG 2021-10-19 04:48:32,236 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 04:48:32,236 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 82
+}
+DEBUG 2021-10-19 06:02:04,857 - ####################################################################################################
+DEBUG 2021-10-19 06:02:04,863 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 06:02:04,863 - {
+    "DOMAIN": "delivip1.com", 
+    "PYTHON ERROR": "[Errno 101] Network is unreachable", 
+    "DOMAIN_CURL": 75
+}
+DEBUG 2021-10-19 06:02:05,499 - ####################################################################################################
+DEBUG 2021-10-19 06:02:05,504 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 06:02:05,505 - {
+    "DOMAIN": "138eu.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 33
+}
+DEBUG 2021-10-19 06:02:06,938 - ####################################################################################################
+DEBUG 2021-10-19 06:02:06,944 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 06:02:06,944 - {
+    "DOMAIN": "eu7.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 33
+}
+DEBUG 2021-10-19 07:02:15,087 - ####################################################################################################
+DEBUG 2021-10-19 07:02:15,093 - DOMAIN PYTHON ERROR
+INFO 2021-10-19 07:02:15,093 - {
+    "DOMAIN": "delivip1.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 50
+}

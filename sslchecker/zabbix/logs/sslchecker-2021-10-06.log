@@ -1,0 +1,434 @@
+DEBUG 2021-10-06 00:39:17,086 - ####################################################################################################
+DEBUG 2021-10-06 00:39:17,091 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 00:39:17,091 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 01:39:16,187 - ####################################################################################################
+DEBUG 2021-10-06 01:39:16,193 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 01:39:16,193 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 02:39:16,090 - ####################################################################################################
+DEBUG 2021-10-06 02:39:16,095 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 02:39:16,095 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 03:39:14,884 - ####################################################################################################
+DEBUG 2021-10-06 03:39:14,889 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 03:39:14,890 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 04:39:16,492 - ####################################################################################################
+DEBUG 2021-10-06 04:39:16,496 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 04:39:16,496 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 05:39:18,373 - ####################################################################################################
+DEBUG 2021-10-06 05:39:18,378 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 05:39:18,379 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 05:42:21,350 - ####################################################################################################
+DEBUG 2021-10-06 05:42:21,355 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 05:42:21,356 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 05:42:24,495 - ####################################################################################################
+DEBUG 2021-10-06 05:42:24,500 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 05:42:24,500 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 06:39:15,787 - ####################################################################################################
+DEBUG 2021-10-06 06:39:15,792 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 06:39:15,792 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 06:42:20,112 - ####################################################################################################
+DEBUG 2021-10-06 06:42:20,117 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 06:42:20,117 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 06:42:22,160 - ####################################################################################################
+DEBUG 2021-10-06 06:42:22,165 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 06:42:22,165 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 07:39:16,356 - ####################################################################################################
+DEBUG 2021-10-06 07:39:16,362 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 07:39:16,362 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 07:42:21,381 - ####################################################################################################
+DEBUG 2021-10-06 07:42:21,387 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 07:42:21,387 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 07:42:23,647 - ####################################################################################################
+DEBUG 2021-10-06 07:42:23,653 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 07:42:23,653 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 08:39:15,795 - ####################################################################################################
+DEBUG 2021-10-06 08:39:15,801 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 08:39:15,801 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 08:42:20,755 - ####################################################################################################
+DEBUG 2021-10-06 08:42:20,760 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 08:42:20,760 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 08:42:22,377 - ####################################################################################################
+DEBUG 2021-10-06 08:42:22,382 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 08:42:22,382 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 09:39:17,366 - ####################################################################################################
+DEBUG 2021-10-06 09:39:17,372 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 09:39:17,372 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 09:42:22,832 - ####################################################################################################
+DEBUG 2021-10-06 09:42:22,838 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 09:42:22,839 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 09:42:24,749 - ####################################################################################################
+DEBUG 2021-10-06 09:42:24,755 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 09:42:24,755 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 10:39:17,265 - ####################################################################################################
+DEBUG 2021-10-06 10:39:17,271 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 10:39:17,271 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 10:42:23,934 - ####################################################################################################
+DEBUG 2021-10-06 10:42:23,940 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 10:42:23,940 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 10:42:28,369 - ####################################################################################################
+DEBUG 2021-10-06 10:42:28,375 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 10:42:28,375 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 11:39:19,406 - ####################################################################################################
+DEBUG 2021-10-06 11:39:19,413 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 11:39:19,413 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 11:42:21,159 - ####################################################################################################
+DEBUG 2021-10-06 11:42:21,165 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 11:42:21,165 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 11:42:22,669 - ####################################################################################################
+DEBUG 2021-10-06 11:42:22,675 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 11:42:22,675 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 12:39:19,361 - ####################################################################################################
+DEBUG 2021-10-06 12:39:19,367 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 12:39:19,367 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 12:42:22,044 - ####################################################################################################
+DEBUG 2021-10-06 12:42:22,049 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 12:42:22,049 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 12:42:23,612 - ####################################################################################################
+DEBUG 2021-10-06 12:42:23,617 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 12:42:23,617 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 13:39:16,628 - ####################################################################################################
+DEBUG 2021-10-06 13:39:16,633 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 13:39:16,633 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 13:42:22,893 - ####################################################################################################
+DEBUG 2021-10-06 13:42:22,898 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 13:42:22,898 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 13:42:23,959 - ####################################################################################################
+DEBUG 2021-10-06 13:42:23,964 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 13:42:23,965 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 14:39:14,118 - ####################################################################################################
+DEBUG 2021-10-06 14:39:14,124 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 14:39:14,124 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-06 14:42:23,349 - ####################################################################################################
+DEBUG 2021-10-06 14:42:23,355 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 14:42:23,355 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 14:42:24,873 - ####################################################################################################
+DEBUG 2021-10-06 14:42:24,878 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 14:42:24,878 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 15:39:16,370 - ####################################################################################################
+DEBUG 2021-10-06 15:39:16,376 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 15:39:16,376 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 15:42:22,595 - ####################################################################################################
+DEBUG 2021-10-06 15:42:22,601 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 15:42:22,602 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 15:42:29,267 - ####################################################################################################
+DEBUG 2021-10-06 15:42:29,272 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 15:42:29,272 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-06 16:39:17,819 - ####################################################################################################
+DEBUG 2021-10-06 16:39:17,824 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 16:39:17,824 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 16:42:23,056 - ####################################################################################################
+DEBUG 2021-10-06 16:42:23,064 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 16:42:23,064 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 16:42:24,609 - ####################################################################################################
+DEBUG 2021-10-06 16:42:24,614 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 16:42:24,614 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 17:39:19,904 - ####################################################################################################
+DEBUG 2021-10-06 17:39:19,909 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 17:39:19,909 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 17:42:22,178 - ####################################################################################################
+DEBUG 2021-10-06 17:42:22,184 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 17:42:22,184 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 17:42:23,531 - ####################################################################################################
+DEBUG 2021-10-06 17:42:23,537 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 17:42:23,537 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 18:39:16,604 - ####################################################################################################
+DEBUG 2021-10-06 18:39:16,610 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 18:39:16,610 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 18:42:23,183 - ####################################################################################################
+DEBUG 2021-10-06 18:42:23,188 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 18:42:23,188 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 18:42:24,798 - ####################################################################################################
+DEBUG 2021-10-06 18:42:24,804 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 18:42:24,804 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 19:39:15,876 - ####################################################################################################
+DEBUG 2021-10-06 19:39:15,882 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 19:39:15,882 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 19:42:21,034 - ####################################################################################################
+DEBUG 2021-10-06 19:42:21,040 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 19:42:21,040 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 19:42:22,039 - ####################################################################################################
+DEBUG 2021-10-06 19:42:22,046 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 19:42:22,046 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 20:39:17,982 - ####################################################################################################
+DEBUG 2021-10-06 20:39:17,987 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 20:39:17,987 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 20:42:20,712 - ####################################################################################################
+DEBUG 2021-10-06 20:42:20,717 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 20:42:20,717 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 20:42:22,249 - ####################################################################################################
+DEBUG 2021-10-06 20:42:22,254 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 20:42:22,254 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 21:39:13,325 - ####################################################################################################
+DEBUG 2021-10-06 21:39:13,330 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 21:39:13,330 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 21:42:23,178 - ####################################################################################################
+DEBUG 2021-10-06 21:42:23,183 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 21:42:23,184 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 21:42:24,473 - ####################################################################################################
+DEBUG 2021-10-06 21:42:24,478 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 21:42:24,478 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 22:39:18,871 - ####################################################################################################
+DEBUG 2021-10-06 22:39:18,876 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 22:39:18,877 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 22:42:22,902 - ####################################################################################################
+DEBUG 2021-10-06 22:42:22,907 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 22:42:22,907 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 22:42:25,579 - ####################################################################################################
+DEBUG 2021-10-06 22:42:25,584 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 22:42:25,584 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 23:39:15,379 - ####################################################################################################
+DEBUG 2021-10-06 23:39:15,384 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 23:39:15,384 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-06 23:42:21,181 - ####################################################################################################
+DEBUG 2021-10-06 23:42:21,185 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 23:42:21,186 - {
+    "DOMAIN": "statt.maxpartner.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-06 23:42:24,172 - ####################################################################################################
+DEBUG 2021-10-06 23:42:24,177 - DOMAIN PYTHON ERROR
+INFO 2021-10-06 23:42:24,178 - {
+    "DOMAIN": "ws.legendli.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}

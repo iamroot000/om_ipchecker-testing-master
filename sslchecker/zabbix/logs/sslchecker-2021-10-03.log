@@ -1,0 +1,266 @@
+DEBUG 2021-10-03 05:39:00,413 - ####################################################################################################
+DEBUG 2021-10-03 05:39:00,418 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 05:39:00,419 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 05:39:01,464 - ####################################################################################################
+DEBUG 2021-10-03 05:39:01,469 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 05:39:01,469 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 06:39:02,307 - ####################################################################################################
+DEBUG 2021-10-03 06:39:02,312 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 06:39:02,312 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 06:39:02,929 - ####################################################################################################
+DEBUG 2021-10-03 06:39:02,935 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 06:39:02,935 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 07:39:02,899 - ####################################################################################################
+DEBUG 2021-10-03 07:39:02,905 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 07:39:02,906 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 07:39:03,318 - ####################################################################################################
+DEBUG 2021-10-03 07:39:03,324 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 07:39:03,324 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 08:39:01,173 - ####################################################################################################
+DEBUG 2021-10-03 08:39:01,179 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 08:39:01,179 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 08:39:02,757 - ####################################################################################################
+DEBUG 2021-10-03 08:39:02,763 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 08:39:02,764 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 09:39:04,109 - ####################################################################################################
+DEBUG 2021-10-03 09:39:04,115 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 09:39:04,115 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 09:39:04,137 - ####################################################################################################
+DEBUG 2021-10-03 09:39:04,142 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 09:39:04,142 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 10:39:03,137 - ####################################################################################################
+DEBUG 2021-10-03 10:39:03,144 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 10:39:03,144 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 10:39:03,394 - ####################################################################################################
+DEBUG 2021-10-03 10:39:03,400 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 10:39:03,400 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 11:39:02,398 - ####################################################################################################
+DEBUG 2021-10-03 11:39:02,403 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 11:39:02,403 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 11:39:02,550 - ####################################################################################################
+DEBUG 2021-10-03 11:39:02,555 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 11:39:02,556 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 12:39:04,104 - ####################################################################################################
+DEBUG 2021-10-03 12:39:04,110 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 12:39:04,111 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 12:39:04,397 - ####################################################################################################
+DEBUG 2021-10-03 12:39:04,403 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 12:39:04,403 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 13:39:03,523 - ####################################################################################################
+DEBUG 2021-10-03 13:39:03,528 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 13:39:03,529 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 13:39:03,841 - ####################################################################################################
+DEBUG 2021-10-03 13:39:03,846 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 13:39:03,846 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 14:39:03,422 - ####################################################################################################
+DEBUG 2021-10-03 14:39:03,427 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 14:39:03,427 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 14:39:03,458 - ####################################################################################################
+DEBUG 2021-10-03 14:39:03,463 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 14:39:03,463 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 15:39:02,257 - ####################################################################################################
+DEBUG 2021-10-03 15:39:02,263 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 15:39:02,264 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 15:39:02,987 - ####################################################################################################
+DEBUG 2021-10-03 15:39:02,993 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 15:39:02,994 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 16:39:03,127 - ####################################################################################################
+DEBUG 2021-10-03 16:39:03,133 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 16:39:03,133 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 16:39:03,570 - ####################################################################################################
+DEBUG 2021-10-03 16:39:03,576 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 16:39:03,576 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 17:39:01,257 - ####################################################################################################
+DEBUG 2021-10-03 17:39:01,262 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 17:39:01,262 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 17:39:03,204 - ####################################################################################################
+DEBUG 2021-10-03 17:39:03,210 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 17:39:03,210 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 18:39:03,283 - ####################################################################################################
+DEBUG 2021-10-03 18:39:03,288 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 18:39:03,288 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 18:39:03,539 - ####################################################################################################
+DEBUG 2021-10-03 18:39:03,544 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 18:39:03,544 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 19:39:02,721 - ####################################################################################################
+DEBUG 2021-10-03 19:39:02,727 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 19:39:02,727 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 19:39:03,227 - ####################################################################################################
+DEBUG 2021-10-03 19:39:03,232 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 19:39:03,233 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 20:39:04,544 - ####################################################################################################
+DEBUG 2021-10-03 20:39:04,549 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 20:39:04,550 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 20:39:04,848 - ####################################################################################################
+DEBUG 2021-10-03 20:39:04,854 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 20:39:04,854 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 21:39:02,292 - ####################################################################################################
+DEBUG 2021-10-03 21:39:02,298 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 21:39:02,298 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 21:39:02,971 - ####################################################################################################
+DEBUG 2021-10-03 21:39:02,977 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 21:39:02,977 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 22:39:04,969 - ####################################################################################################
+DEBUG 2021-10-03 22:39:04,974 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 22:39:04,975 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 22:39:13,611 - ####################################################################################################
+DEBUG 2021-10-03 22:39:13,617 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 22:39:13,617 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 23:38:45,549 - ####################################################################################################
+DEBUG 2021-10-03 23:38:45,555 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 23:38:45,555 - {
+    "DOMAIN": "v2r-sz2.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-03 23:39:02,099 - ####################################################################################################
+DEBUG 2021-10-03 23:39:02,106 - DOMAIN PYTHON ERROR
+INFO 2021-10-03 23:39:02,107 - {
+    "DOMAIN": "v2r-sz1.qlinlin.top", 
+    "PYTHON ERROR": "[Errno 104] Connection reset by peer", 
+    "DOMAIN_CURL": 0
+}

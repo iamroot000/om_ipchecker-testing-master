@@ -1,0 +1,168 @@
+DEBUG 2021-10-05 00:39:35,117 - ####################################################################################################
+DEBUG 2021-10-05 00:39:35,122 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 00:39:35,123 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-05 01:39:15,293 - ####################################################################################################
+DEBUG 2021-10-05 01:39:15,298 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 01:39:15,298 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 02:39:16,608 - ####################################################################################################
+DEBUG 2021-10-05 02:39:16,613 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 02:39:16,613 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 03:39:15,374 - ####################################################################################################
+DEBUG 2021-10-05 03:39:15,379 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 03:39:15,379 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 04:39:16,772 - ####################################################################################################
+DEBUG 2021-10-05 04:39:16,777 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 04:39:16,777 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 05:39:15,893 - ####################################################################################################
+DEBUG 2021-10-05 05:39:15,897 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 05:39:15,897 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 06:39:17,516 - ####################################################################################################
+DEBUG 2021-10-05 06:39:17,521 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 06:39:17,521 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 07:39:16,264 - ####################################################################################################
+DEBUG 2021-10-05 07:39:16,269 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 07:39:16,270 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 08:39:16,796 - ####################################################################################################
+DEBUG 2021-10-05 08:39:16,802 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 08:39:16,803 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 09:39:16,356 - ####################################################################################################
+DEBUG 2021-10-05 09:39:16,363 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 09:39:16,363 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 10:39:15,201 - ####################################################################################################
+DEBUG 2021-10-05 10:39:15,207 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 10:39:15,207 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 11:39:18,067 - ####################################################################################################
+DEBUG 2021-10-05 11:39:18,072 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 11:39:18,072 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 12:39:16,570 - ####################################################################################################
+DEBUG 2021-10-05 12:39:16,575 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 12:39:16,576 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 13:39:16,730 - ####################################################################################################
+DEBUG 2021-10-05 13:39:16,735 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 13:39:16,736 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 14:39:16,502 - ####################################################################################################
+DEBUG 2021-10-05 14:39:16,509 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 14:39:16,509 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-05 15:39:16,065 - ####################################################################################################
+DEBUG 2021-10-05 15:39:16,070 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 15:39:16,070 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 16:39:14,100 - ####################################################################################################
+DEBUG 2021-10-05 16:39:14,105 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 16:39:14,106 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 17:39:18,189 - ####################################################################################################
+DEBUG 2021-10-05 17:39:18,194 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 17:39:18,194 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 18:39:15,304 - ####################################################################################################
+DEBUG 2021-10-05 18:39:15,310 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 18:39:15,311 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 19:39:15,805 - ####################################################################################################
+DEBUG 2021-10-05 19:39:15,810 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 19:39:15,810 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 20:39:15,593 - ####################################################################################################
+DEBUG 2021-10-05 20:39:15,599 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 20:39:15,599 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 21:39:17,132 - ####################################################################################################
+DEBUG 2021-10-05 21:39:17,137 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 21:39:17,138 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 22:39:21,090 - ####################################################################################################
+DEBUG 2021-10-05 22:39:21,095 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 22:39:21,096 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}
+DEBUG 2021-10-05 23:39:16,665 - ####################################################################################################
+DEBUG 2021-10-05 23:39:16,670 - DOMAIN PYTHON ERROR
+INFO 2021-10-05 23:39:16,670 - {
+    "DOMAIN": "www.gochat900.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 17
+}

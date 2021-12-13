@@ -1,0 +1,396 @@
+DEBUG 2021-10-26 00:09:08,163 - ####################################################################################################
+DEBUG 2021-10-26 00:09:08,168 - DOMAIN DISCOVER
+INFO 2021-10-26 00:09:08,169 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "mg.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgb.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgbtest.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "vpn19.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabbo98.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabo28.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "gstechhk.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 01:09:05,153 - ####################################################################################################
+DEBUG 2021-10-26 01:09:05,159 - DOMAIN DISCOVER
+INFO 2021-10-26 01:09:05,160 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "mg.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgb.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgbtest.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "vpn19.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabbo98.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabo28.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "gstechhk.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 02:09:07,398 - ####################################################################################################
+DEBUG 2021-10-26 02:09:07,404 - DOMAIN DISCOVER
+INFO 2021-10-26 02:09:07,404 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "mg.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgb.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgbtest.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "vpn19.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabbo98.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabo28.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "gstechhk.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 03:09:09,048 - ####################################################################################################
+DEBUG 2021-10-26 03:09:09,055 - DOMAIN DISCOVER
+INFO 2021-10-26 03:09:09,055 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "mg.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgb.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgbtest.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "vpn19.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabbo98.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabo28.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "gstechhk.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 04:09:11,328 - ####################################################################################################
+DEBUG 2021-10-26 04:09:11,334 - DOMAIN DISCOVER
+INFO 2021-10-26 04:09:11,334 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "mg.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgb.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "mgbtest.snapplog.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "vpn19.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabbo98.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "jiabo28.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "gstechhk.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 05:09:09,151 - ####################################################################################################
+DEBUG 2021-10-26 05:09:09,158 - DOMAIN DISCOVER
+INFO 2021-10-26 05:09:09,158 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 06:09:09,042 - ####################################################################################################
+DEBUG 2021-10-26 06:09:09,049 - DOMAIN DISCOVER
+INFO 2021-10-26 06:09:09,049 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "delivip1.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 07:09:10,868 - ####################################################################################################
+DEBUG 2021-10-26 07:09:10,874 - DOMAIN DISCOVER
+INFO 2021-10-26 07:09:10,874 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 08:09:12,113 - ####################################################################################################
+DEBUG 2021-10-26 08:09:12,120 - DOMAIN DISCOVER
+INFO 2021-10-26 08:09:12,120 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 09:09:08,411 - ####################################################################################################
+DEBUG 2021-10-26 09:09:08,417 - DOMAIN DISCOVER
+INFO 2021-10-26 09:09:08,417 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 10:09:09,242 - ####################################################################################################
+DEBUG 2021-10-26 10:09:09,247 - DOMAIN DISCOVER
+INFO 2021-10-26 10:09:09,248 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 11:09:12,006 - ####################################################################################################
+DEBUG 2021-10-26 11:09:12,011 - DOMAIN DISCOVER
+INFO 2021-10-26 11:09:12,011 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 12:09:09,213 - ####################################################################################################
+DEBUG 2021-10-26 12:09:09,219 - DOMAIN DISCOVER
+INFO 2021-10-26 12:09:09,219 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 13:09:14,948 - ####################################################################################################
+DEBUG 2021-10-26 13:09:14,954 - DOMAIN DISCOVER
+INFO 2021-10-26 13:09:14,955 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 14:09:13,041 - ####################################################################################################
+DEBUG 2021-10-26 14:09:13,047 - DOMAIN DISCOVER
+INFO 2021-10-26 14:09:13,047 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 15:09:15,732 - ####################################################################################################
+DEBUG 2021-10-26 15:09:15,738 - DOMAIN DISCOVER
+INFO 2021-10-26 15:09:15,738 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 16:09:14,455 - ####################################################################################################
+DEBUG 2021-10-26 16:09:14,461 - DOMAIN DISCOVER
+INFO 2021-10-26 16:09:14,462 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 17:09:17,151 - ####################################################################################################
+DEBUG 2021-10-26 17:09:17,158 - DOMAIN DISCOVER
+INFO 2021-10-26 17:09:17,158 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 18:09:16,815 - ####################################################################################################
+DEBUG 2021-10-26 18:09:16,820 - DOMAIN DISCOVER
+INFO 2021-10-26 18:09:16,821 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 19:09:41,406 - ####################################################################################################
+DEBUG 2021-10-26 19:09:41,411 - DOMAIN DISCOVER
+INFO 2021-10-26 19:09:41,412 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 20:09:14,607 - ####################################################################################################
+DEBUG 2021-10-26 20:09:14,612 - DOMAIN DISCOVER
+INFO 2021-10-26 20:09:14,612 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 21:09:13,379 - ####################################################################################################
+DEBUG 2021-10-26 21:09:13,385 - DOMAIN DISCOVER
+INFO 2021-10-26 21:09:13,385 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 22:09:11,414 - ####################################################################################################
+DEBUG 2021-10-26 22:09:11,419 - DOMAIN DISCOVER
+INFO 2021-10-26 22:09:11,420 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}
+DEBUG 2021-10-26 23:09:14,893 - ####################################################################################################
+DEBUG 2021-10-26 23:09:14,899 - DOMAIN DISCOVER
+INFO 2021-10-26 23:09:14,899 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "jubolai.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "yishengbet.com"
+        }
+    ]
+}

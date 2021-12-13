@@ -1,0 +1,690 @@
+DEBUG 2021-07-12 00:08:51,728 - ####################################################################################################
+DEBUG 2021-07-12 00:08:51,734 - DOMAIN DISCOVER
+INFO 2021-07-12 00:08:51,734 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 01:08:50,768 - ####################################################################################################
+DEBUG 2021-07-12 01:08:50,774 - DOMAIN DISCOVER
+INFO 2021-07-12 01:08:50,774 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 02:08:50,065 - ####################################################################################################
+DEBUG 2021-07-12 02:08:50,072 - DOMAIN DISCOVER
+INFO 2021-07-12 02:08:50,072 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 03:08:53,089 - ####################################################################################################
+DEBUG 2021-07-12 03:08:53,096 - DOMAIN DISCOVER
+INFO 2021-07-12 03:08:53,096 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 04:08:48,033 - ####################################################################################################
+DEBUG 2021-07-12 04:08:48,038 - DOMAIN DISCOVER
+INFO 2021-07-12 04:08:48,039 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 05:08:52,907 - ####################################################################################################
+DEBUG 2021-07-12 05:08:52,913 - DOMAIN DISCOVER
+INFO 2021-07-12 05:08:52,913 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "npj0001.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin321.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin833.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu600.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "cf380.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "cf382.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "cf383.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.cf394.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.cf391.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 06:08:51,443 - ####################################################################################################
+DEBUG 2021-07-12 06:08:51,450 - DOMAIN DISCOVER
+INFO 2021-07-12 06:08:51,450 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "18189000.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jblzm08.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "xbet777.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "xt1996.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "v2r-sz1.qlinlin.top"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "sports.kball888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu338.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu511.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "cf812.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "cf814.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "wpc11.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.wpc11.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "wpc12.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.wpc12.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 07:08:50,766 - ####################################################################################################
+DEBUG 2021-07-12 07:08:50,774 - DOMAIN DISCOVER
+INFO 2021-07-12 07:08:50,774 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 08:08:50,104 - ####################################################################################################
+DEBUG 2021-07-12 08:08:50,110 - DOMAIN DISCOVER
+INFO 2021-07-12 08:08:50,110 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 09:08:52,642 - ####################################################################################################
+DEBUG 2021-07-12 09:08:52,649 - DOMAIN DISCOVER
+INFO 2021-07-12 09:08:52,649 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 10:08:50,342 - ####################################################################################################
+DEBUG 2021-07-12 10:08:50,348 - DOMAIN DISCOVER
+INFO 2021-07-12 10:08:50,348 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 11:08:52,798 - ####################################################################################################
+DEBUG 2021-07-12 11:08:52,803 - DOMAIN DISCOVER
+INFO 2021-07-12 11:08:52,804 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 12:08:48,986 - ####################################################################################################
+DEBUG 2021-07-12 12:08:48,993 - DOMAIN DISCOVER
+INFO 2021-07-12 12:08:48,993 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 13:08:51,609 - ####################################################################################################
+DEBUG 2021-07-12 13:08:51,615 - DOMAIN DISCOVER
+INFO 2021-07-12 13:08:51,616 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 14:08:52,896 - ####################################################################################################
+DEBUG 2021-07-12 14:08:52,903 - DOMAIN DISCOVER
+INFO 2021-07-12 14:08:52,903 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 15:08:54,233 - ####################################################################################################
+DEBUG 2021-07-12 15:08:54,239 - DOMAIN DISCOVER
+INFO 2021-07-12 15:08:54,239 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 16:08:52,140 - ####################################################################################################
+DEBUG 2021-07-12 16:08:52,147 - DOMAIN DISCOVER
+INFO 2021-07-12 16:08:52,147 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 17:08:54,741 - ####################################################################################################
+DEBUG 2021-07-12 17:08:54,748 - DOMAIN DISCOVER
+INFO 2021-07-12 17:08:54,748 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 18:08:49,035 - ####################################################################################################
+DEBUG 2021-07-12 18:08:49,041 - DOMAIN DISCOVER
+INFO 2021-07-12 18:08:49,041 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 19:08:52,391 - ####################################################################################################
+DEBUG 2021-07-12 19:08:52,398 - DOMAIN DISCOVER
+INFO 2021-07-12 19:08:52,398 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 20:08:55,673 - ####################################################################################################
+DEBUG 2021-07-12 20:08:55,680 - DOMAIN DISCOVER
+INFO 2021-07-12 20:08:55,680 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 21:08:54,739 - ####################################################################################################
+DEBUG 2021-07-12 21:08:54,746 - DOMAIN DISCOVER
+INFO 2021-07-12 21:08:54,746 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 22:08:54,408 - ####################################################################################################
+DEBUG 2021-07-12 22:08:54,414 - DOMAIN DISCOVER
+INFO 2021-07-12 22:08:54,414 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}
+DEBUG 2021-07-12 23:08:52,261 - ####################################################################################################
+DEBUG 2021-07-12 23:08:52,268 - DOMAIN DISCOVER
+INFO 2021-07-12 23:08:52,268 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "kbl6666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "gci.987byh.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu590.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu590.com"
+        }
+    ]
+}

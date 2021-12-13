@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GeoIP</title>
+</head>
+<body>
+	    <form class="form-group" method="POST" action="{% url 'getInfo' %}">
+        {% csrf_token %}
+        <button type="submit" class="btn btn-info" id="btnSearch">Search
+        </button>
+        <div class="form-group">
+            <input type="text" class="form-control" name="get_ip" id="get_ip" placeholder="input IP"
+            value="">
+        </div>
+    </form>
+
+    <br>
+   	{{ res }}
+</body>
+</html>

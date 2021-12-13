@@ -1,0 +1,1050 @@
+DEBUG 2021-10-20 08:03:58,342 - ####################################################################################################
+DEBUG 2021-10-20 08:03:58,347 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:03:58,347 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 08:04:03,812 - ####################################################################################################
+DEBUG 2021-10-20 08:04:03,817 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:03,818 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 08:04:06,239 - ####################################################################################################
+DEBUG 2021-10-20 08:04:06,246 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:06,246 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 08:04:09,048 - ####################################################################################################
+DEBUG 2021-10-20 08:04:09,053 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:09,054 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 08:04:11,613 - ####################################################################################################
+DEBUG 2021-10-20 08:04:11,618 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:11,618 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 08:04:11,675 - ####################################################################################################
+DEBUG 2021-10-20 08:04:11,681 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:11,681 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 08:04:13,667 - ####################################################################################################
+DEBUG 2021-10-20 08:04:13,672 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:13,672 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 08:04:15,241 - ####################################################################################################
+DEBUG 2021-10-20 08:04:15,247 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:15,247 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 08:04:16,696 - ####################################################################################################
+DEBUG 2021-10-20 08:04:16,703 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:16,703 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 08:04:18,061 - ####################################################################################################
+DEBUG 2021-10-20 08:04:18,068 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 08:04:18,069 - {
+    "DOMAIN": "www.wanstea.com", 
+    "PYTHON ERROR": "[Errno -2] Name or service not known", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-20 09:04:01,026 - ####################################################################################################
+DEBUG 2021-10-20 09:04:01,032 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:01,032 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 09:04:05,220 - ####################################################################################################
+DEBUG 2021-10-20 09:04:05,226 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:05,226 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 09:04:08,123 - ####################################################################################################
+DEBUG 2021-10-20 09:04:08,128 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:08,128 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 09:04:08,920 - ####################################################################################################
+DEBUG 2021-10-20 09:04:08,926 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:08,926 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 09:04:10,693 - ####################################################################################################
+DEBUG 2021-10-20 09:04:10,698 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:10,698 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 09:04:11,475 - ####################################################################################################
+DEBUG 2021-10-20 09:04:11,480 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:11,481 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 09:04:12,235 - ####################################################################################################
+DEBUG 2021-10-20 09:04:12,241 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:12,241 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 09:04:14,095 - ####################################################################################################
+DEBUG 2021-10-20 09:04:14,101 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:14,101 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 09:04:14,666 - ####################################################################################################
+DEBUG 2021-10-20 09:04:14,672 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:14,672 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 09:04:15,951 - ####################################################################################################
+DEBUG 2021-10-20 09:04:15,956 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 09:04:15,957 - {
+    "DOMAIN": "www.wanstea.com", 
+    "PYTHON ERROR": "[Errno -2] Name or service not known", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-20 10:04:03,539 - ####################################################################################################
+DEBUG 2021-10-20 10:04:03,544 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:03,544 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 10:04:06,880 - ####################################################################################################
+DEBUG 2021-10-20 10:04:06,886 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:06,886 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 10:04:10,489 - ####################################################################################################
+DEBUG 2021-10-20 10:04:10,496 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:10,496 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 10:04:11,262 - ####################################################################################################
+DEBUG 2021-10-20 10:04:11,267 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:11,267 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 10:04:12,534 - ####################################################################################################
+DEBUG 2021-10-20 10:04:12,540 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:12,541 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 10:04:12,963 - ####################################################################################################
+DEBUG 2021-10-20 10:04:12,969 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:12,969 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 10:04:14,392 - ####################################################################################################
+DEBUG 2021-10-20 10:04:14,399 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:14,399 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 10:04:15,423 - ####################################################################################################
+DEBUG 2021-10-20 10:04:15,429 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:15,429 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 10:04:15,946 - ####################################################################################################
+DEBUG 2021-10-20 10:04:15,952 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:15,953 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 10:04:18,626 - ####################################################################################################
+DEBUG 2021-10-20 10:04:18,632 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 10:04:18,632 - {
+    "DOMAIN": "www.wanstea.com", 
+    "PYTHON ERROR": "[Errno -2] Name or service not known", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-20 11:03:58,917 - ####################################################################################################
+DEBUG 2021-10-20 11:03:58,922 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:03:58,922 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 11:04:05,652 - ####################################################################################################
+DEBUG 2021-10-20 11:04:05,658 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:05,658 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 11:04:07,611 - ####################################################################################################
+DEBUG 2021-10-20 11:04:07,617 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:07,617 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 11:04:08,716 - ####################################################################################################
+DEBUG 2021-10-20 11:04:08,722 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:08,723 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 11:04:11,573 - ####################################################################################################
+DEBUG 2021-10-20 11:04:11,579 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:11,579 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 11:04:13,383 - ####################################################################################################
+DEBUG 2021-10-20 11:04:13,388 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:13,388 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 11:04:13,638 - ####################################################################################################
+DEBUG 2021-10-20 11:04:13,643 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:13,644 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 11:04:15,023 - ####################################################################################################
+DEBUG 2021-10-20 11:04:15,029 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:15,029 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 11:04:16,176 - ####################################################################################################
+DEBUG 2021-10-20 11:04:16,181 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:16,182 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 11:04:17,300 - ####################################################################################################
+DEBUG 2021-10-20 11:04:17,306 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 11:04:17,306 - {
+    "DOMAIN": "www.wanstea.com", 
+    "PYTHON ERROR": "[Errno -2] Name or service not known", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-20 12:04:04,692 - ####################################################################################################
+DEBUG 2021-10-20 12:04:04,697 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:04,698 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 12:04:08,555 - ####################################################################################################
+DEBUG 2021-10-20 12:04:08,561 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:08,561 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 12:04:10,253 - ####################################################################################################
+DEBUG 2021-10-20 12:04:10,259 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:10,259 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 12:04:11,061 - ####################################################################################################
+DEBUG 2021-10-20 12:04:11,066 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:11,066 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 12:04:13,392 - ####################################################################################################
+DEBUG 2021-10-20 12:04:13,398 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:13,398 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 12:04:13,776 - ####################################################################################################
+DEBUG 2021-10-20 12:04:13,783 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:13,783 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 12:04:15,022 - ####################################################################################################
+DEBUG 2021-10-20 12:04:15,028 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:15,028 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 12:04:15,832 - ####################################################################################################
+DEBUG 2021-10-20 12:04:15,838 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:15,838 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 12:04:16,835 - ####################################################################################################
+DEBUG 2021-10-20 12:04:16,841 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:16,841 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 12:04:16,953 - ####################################################################################################
+DEBUG 2021-10-20 12:04:16,959 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 12:04:16,960 - {
+    "DOMAIN": "www.wanstea.com", 
+    "PYTHON ERROR": "[Errno -2] Name or service not known", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-20 13:04:04,024 - ####################################################################################################
+DEBUG 2021-10-20 13:04:04,030 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:04,030 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 13:04:05,648 - ####################################################################################################
+DEBUG 2021-10-20 13:04:05,655 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:05,656 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 13:04:09,883 - ####################################################################################################
+DEBUG 2021-10-20 13:04:09,889 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:09,889 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 13:04:10,644 - ####################################################################################################
+DEBUG 2021-10-20 13:04:10,650 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:10,650 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 13:04:13,002 - ####################################################################################################
+DEBUG 2021-10-20 13:04:13,009 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:13,009 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 13:04:13,727 - ####################################################################################################
+DEBUG 2021-10-20 13:04:13,733 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:13,733 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 13:04:14,604 - ####################################################################################################
+DEBUG 2021-10-20 13:04:14,609 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:14,609 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 13:04:15,216 - ####################################################################################################
+DEBUG 2021-10-20 13:04:15,222 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:15,223 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 13:04:16,216 - ####################################################################################################
+DEBUG 2021-10-20 13:04:16,223 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:16,223 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 13:04:17,979 - ####################################################################################################
+DEBUG 2021-10-20 13:04:17,985 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 13:04:17,986 - {
+    "DOMAIN": "www.wanstea.com", 
+    "PYTHON ERROR": "[Errno -2] Name or service not known", 
+    "DOMAIN_CURL": 0
+}
+DEBUG 2021-10-20 14:04:03,580 - ####################################################################################################
+DEBUG 2021-10-20 14:04:03,586 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:03,586 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 14:04:07,967 - ####################################################################################################
+DEBUG 2021-10-20 14:04:07,972 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:07,972 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 14:04:10,363 - ####################################################################################################
+DEBUG 2021-10-20 14:04:10,368 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:10,369 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 14:04:10,939 - ####################################################################################################
+DEBUG 2021-10-20 14:04:10,945 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:10,945 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 14:04:13,160 - ####################################################################################################
+DEBUG 2021-10-20 14:04:13,167 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:13,167 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 14:04:13,667 - ####################################################################################################
+DEBUG 2021-10-20 14:04:13,674 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:13,674 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 14:04:14,678 - ####################################################################################################
+DEBUG 2021-10-20 14:04:14,683 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:14,683 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 14:04:15,700 - ####################################################################################################
+DEBUG 2021-10-20 14:04:15,706 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:15,706 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 14:04:17,462 - ####################################################################################################
+DEBUG 2021-10-20 14:04:17,468 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 14:04:17,468 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 15:03:59,725 - ####################################################################################################
+DEBUG 2021-10-20 15:03:59,732 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:03:59,732 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 15:04:06,635 - ####################################################################################################
+DEBUG 2021-10-20 15:04:06,640 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:06,640 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 15:04:08,334 - ####################################################################################################
+DEBUG 2021-10-20 15:04:08,339 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:08,340 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 15:04:10,389 - ####################################################################################################
+DEBUG 2021-10-20 15:04:10,394 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:10,395 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 15:04:12,119 - ####################################################################################################
+DEBUG 2021-10-20 15:04:12,125 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:12,125 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 15:04:12,359 - ####################################################################################################
+DEBUG 2021-10-20 15:04:12,365 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:12,365 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 15:04:13,659 - ####################################################################################################
+DEBUG 2021-10-20 15:04:13,664 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:13,664 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 15:04:15,495 - ####################################################################################################
+DEBUG 2021-10-20 15:04:15,501 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:15,502 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 15:04:16,750 - ####################################################################################################
+DEBUG 2021-10-20 15:04:16,755 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 15:04:16,756 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 16:04:03,861 - ####################################################################################################
+DEBUG 2021-10-20 16:04:03,866 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:03,867 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 16:04:06,371 - ####################################################################################################
+DEBUG 2021-10-20 16:04:06,377 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:06,377 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 16:04:08,280 - ####################################################################################################
+DEBUG 2021-10-20 16:04:08,286 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:08,286 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 16:04:08,743 - ####################################################################################################
+DEBUG 2021-10-20 16:04:08,748 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:08,748 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 19
+}
+DEBUG 2021-10-20 16:04:10,370 - ####################################################################################################
+DEBUG 2021-10-20 16:04:10,375 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:10,376 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 16:04:11,286 - ####################################################################################################
+DEBUG 2021-10-20 16:04:11,291 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:11,291 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 16:04:11,356 - ####################################################################################################
+DEBUG 2021-10-20 16:04:11,362 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:11,362 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 16:04:11,893 - ####################################################################################################
+DEBUG 2021-10-20 16:04:11,899 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:11,899 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 16:04:12,550 - ####################################################################################################
+DEBUG 2021-10-20 16:04:12,555 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 16:04:12,556 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:00,346 - ####################################################################################################
+DEBUG 2021-10-20 17:04:00,352 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:00,353 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:06,612 - ####################################################################################################
+DEBUG 2021-10-20 17:04:06,617 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:06,618 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:08,152 - ####################################################################################################
+DEBUG 2021-10-20 17:04:08,159 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:08,159 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:10,045 - ####################################################################################################
+DEBUG 2021-10-20 17:04:10,051 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:10,052 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:12,084 - ####################################################################################################
+DEBUG 2021-10-20 17:04:12,089 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:12,090 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:12,614 - ####################################################################################################
+DEBUG 2021-10-20 17:04:12,619 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:12,619 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:13,991 - ####################################################################################################
+DEBUG 2021-10-20 17:04:13,996 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:13,996 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:14,312 - ####################################################################################################
+DEBUG 2021-10-20 17:04:14,318 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:14,318 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 17:04:16,505 - ####################################################################################################
+DEBUG 2021-10-20 17:04:16,511 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 17:04:16,511 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:04,960 - ####################################################################################################
+DEBUG 2021-10-20 18:04:04,966 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:04,966 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:08,127 - ####################################################################################################
+DEBUG 2021-10-20 18:04:08,133 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:08,134 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:11,766 - ####################################################################################################
+DEBUG 2021-10-20 18:04:11,770 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:11,770 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:12,147 - ####################################################################################################
+DEBUG 2021-10-20 18:04:12,154 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:12,155 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:14,805 - ####################################################################################################
+DEBUG 2021-10-20 18:04:14,811 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:14,811 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:15,347 - ####################################################################################################
+DEBUG 2021-10-20 18:04:15,352 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:15,352 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:15,725 - ####################################################################################################
+DEBUG 2021-10-20 18:04:15,731 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:15,731 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:16,596 - ####################################################################################################
+DEBUG 2021-10-20 18:04:16,601 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:16,601 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 18:04:17,477 - ####################################################################################################
+DEBUG 2021-10-20 18:04:17,484 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 18:04:17,484 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:02,505 - ####################################################################################################
+DEBUG 2021-10-20 19:04:02,510 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:02,511 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:06,590 - ####################################################################################################
+DEBUG 2021-10-20 19:04:06,596 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:06,596 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:09,898 - ####################################################################################################
+DEBUG 2021-10-20 19:04:09,904 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:09,904 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:11,998 - ####################################################################################################
+DEBUG 2021-10-20 19:04:12,004 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:12,004 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:14,457 - ####################################################################################################
+DEBUG 2021-10-20 19:04:14,463 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:14,463 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:14,751 - ####################################################################################################
+DEBUG 2021-10-20 19:04:14,756 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:14,756 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:15,203 - ####################################################################################################
+DEBUG 2021-10-20 19:04:15,209 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:15,209 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:15,224 - ####################################################################################################
+DEBUG 2021-10-20 19:04:15,230 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:15,230 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 19:04:16,591 - ####################################################################################################
+DEBUG 2021-10-20 19:04:16,596 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 19:04:16,596 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:02,881 - ####################################################################################################
+DEBUG 2021-10-20 20:04:02,887 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:02,887 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:07,692 - ####################################################################################################
+DEBUG 2021-10-20 20:04:07,698 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:07,698 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:10,024 - ####################################################################################################
+DEBUG 2021-10-20 20:04:10,030 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:10,030 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:12,086 - ####################################################################################################
+DEBUG 2021-10-20 20:04:12,094 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:12,094 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:13,378 - ####################################################################################################
+DEBUG 2021-10-20 20:04:13,383 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:13,383 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:13,801 - ####################################################################################################
+DEBUG 2021-10-20 20:04:13,806 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:13,807 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:14,462 - ####################################################################################################
+DEBUG 2021-10-20 20:04:14,468 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:14,468 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:15,570 - ####################################################################################################
+DEBUG 2021-10-20 20:04:15,577 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:15,577 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 20:04:16,638 - ####################################################################################################
+DEBUG 2021-10-20 20:04:16,644 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 20:04:16,644 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:02,262 - ####################################################################################################
+DEBUG 2021-10-20 21:04:02,267 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:02,267 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:05,128 - ####################################################################################################
+DEBUG 2021-10-20 21:04:05,133 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:05,133 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:10,511 - ####################################################################################################
+DEBUG 2021-10-20 21:04:10,516 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:10,517 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:11,686 - ####################################################################################################
+DEBUG 2021-10-20 21:04:11,691 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:11,692 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:13,454 - ####################################################################################################
+DEBUG 2021-10-20 21:04:13,459 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:13,459 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:14,293 - ####################################################################################################
+DEBUG 2021-10-20 21:04:14,299 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:14,299 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:15,051 - ####################################################################################################
+DEBUG 2021-10-20 21:04:15,057 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:15,057 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:17,164 - ####################################################################################################
+DEBUG 2021-10-20 21:04:17,170 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:17,170 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 21:04:18,716 - ####################################################################################################
+DEBUG 2021-10-20 21:04:18,723 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 21:04:18,723 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:03,548 - ####################################################################################################
+DEBUG 2021-10-20 22:04:03,554 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:03,555 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:07,486 - ####################################################################################################
+DEBUG 2021-10-20 22:04:07,492 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:07,492 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:09,627 - ####################################################################################################
+DEBUG 2021-10-20 22:04:09,633 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:09,634 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:10,621 - ####################################################################################################
+DEBUG 2021-10-20 22:04:10,628 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:10,628 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:13,278 - ####################################################################################################
+DEBUG 2021-10-20 22:04:13,284 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:13,284 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:13,741 - ####################################################################################################
+DEBUG 2021-10-20 22:04:13,747 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:13,748 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:15,004 - ####################################################################################################
+DEBUG 2021-10-20 22:04:15,011 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:15,011 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:15,887 - ####################################################################################################
+DEBUG 2021-10-20 22:04:15,893 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:15,893 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 22:04:16,359 - ####################################################################################################
+DEBUG 2021-10-20 22:04:16,365 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 22:04:16,365 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:02,475 - ####################################################################################################
+DEBUG 2021-10-20 23:04:02,480 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:02,481 - {
+    "DOMAIN": "mg.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:06,373 - ####################################################################################################
+DEBUG 2021-10-20 23:04:06,378 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:06,378 - {
+    "DOMAIN": "jubolai.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:09,527 - ####################################################################################################
+DEBUG 2021-10-20 23:04:09,532 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:09,533 - {
+    "DOMAIN": "mgb.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:10,622 - ####################################################################################################
+DEBUG 2021-10-20 23:04:10,628 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:10,628 - {
+    "DOMAIN": "mgbtest.snapplog.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:13,281 - ####################################################################################################
+DEBUG 2021-10-20 23:04:13,288 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:13,288 - {
+    "DOMAIN": "vpn19.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:13,953 - ####################################################################################################
+DEBUG 2021-10-20 23:04:13,959 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:13,960 - {
+    "DOMAIN": "jiabbo98.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:14,886 - ####################################################################################################
+DEBUG 2021-10-20 23:04:14,891 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:14,892 - {
+    "DOMAIN": "jiabo28.net", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:16,397 - ####################################################################################################
+DEBUG 2021-10-20 23:04:16,402 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:16,402 - {
+    "DOMAIN": "gstechhk.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}
+DEBUG 2021-10-20 23:04:17,079 - ####################################################################################################
+DEBUG 2021-10-20 23:04:17,085 - DOMAIN PYTHON ERROR
+INFO 2021-10-20 23:04:17,085 - {
+    "DOMAIN": "yishengbet.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 18
+}

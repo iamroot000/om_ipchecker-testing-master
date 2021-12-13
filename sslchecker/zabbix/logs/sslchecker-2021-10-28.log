@@ -1,0 +1,14 @@
+DEBUG 2021-10-28 05:40:12,845 - ####################################################################################################
+DEBUG 2021-10-28 05:40:12,851 - DOMAIN PYTHON ERROR
+INFO 2021-10-28 05:40:12,851 - {
+    "DOMAIN": "delivip1.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 79
+}
+DEBUG 2021-10-28 06:40:13,921 - ####################################################################################################
+DEBUG 2021-10-28 06:40:13,926 - DOMAIN PYTHON ERROR
+INFO 2021-10-28 06:40:13,926 - {
+    "DOMAIN": "delivip1.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 79
+}

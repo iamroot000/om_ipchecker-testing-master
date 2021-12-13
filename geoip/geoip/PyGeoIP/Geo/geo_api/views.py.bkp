@@ -1,0 +1,46 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
+from django.shortcuts import render, get_object_or_404
+from django.views import View
+import json
+from geoip import geolite2
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from geoip import open_database
+
+
+class getInfo(APIView):
+	"""docstring for ClassName"""
+
+	def get(self,request):
+		# template_name = 'geo_api/index.html'
+
+		###for manual####
+		# g = geolite2.lookup('17.0.0.1')
+
+		# if g is not None:
+
+		# 	rVal = {
+		# 		'country': g.country,
+		# 		'continent': g.continent,
+		# 		'timezone': g.timezone,
+		# 		'subdivisions': g.subdivisions,
+		# 	}
+		# return Response(rVal)
+
+		###for MaxMind###
+
+		db = open_database('GeoIP2-City.mmdb')
+		g = db.lookup_mine()
+
+		if g is not None:
+
+			rVal = {
+				'country': g.country,
+				'continent': g.continent,
+				'timezone': g.timezone,
+				'subdivisions': g.subdivisions,
+			}
+		return Response(rVal)
+

@@ -1,0 +1,9 @@
+{
+    "data": [
+        {
+            "{#RESOLVE}": "vault.omtools.me:18200:10.165.12.11", 
+            "{#VAULTDOMAIN}": "https://vault.omtools.me:18200"
+        }
+    ]
+}
+

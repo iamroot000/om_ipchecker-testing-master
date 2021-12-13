@@ -1,0 +1,1687 @@
+DEBUG 2021-10-15 00:43:36,518 - ####################################################################################################
+DEBUG 2021-10-15 00:43:36,522 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:43:36,523 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 00:43:36,824 - ####################################################################################################
+DEBUG 2021-10-15 00:43:36,830 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:43:36,830 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 00:47:59,964 - ####################################################################################################
+DEBUG 2021-10-15 00:47:59,970 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:47:59,970 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 00:48:01,038 - ####################################################################################################
+DEBUG 2021-10-15 00:48:01,044 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:01,044 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 00:48:01,283 - ####################################################################################################
+DEBUG 2021-10-15 00:48:01,289 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:01,289 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 00:48:01,411 - ####################################################################################################
+DEBUG 2021-10-15 00:48:01,417 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:01,417 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 00:48:29,744 - ####################################################################################################
+DEBUG 2021-10-15 00:48:29,750 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:29,750 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 00:48:32,281 - ####################################################################################################
+DEBUG 2021-10-15 00:48:32,286 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:32,286 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 00:48:32,893 - ####################################################################################################
+DEBUG 2021-10-15 00:48:32,898 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:32,898 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 00:48:33,751 - ####################################################################################################
+DEBUG 2021-10-15 00:48:33,757 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 00:48:33,757 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 01:43:31,663 - ####################################################################################################
+DEBUG 2021-10-15 01:43:31,669 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:43:31,669 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 01:43:33,479 - ####################################################################################################
+DEBUG 2021-10-15 01:43:33,484 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:43:33,485 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 01:48:01,523 - ####################################################################################################
+DEBUG 2021-10-15 01:48:01,529 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:01,529 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 01:48:01,545 - ####################################################################################################
+DEBUG 2021-10-15 01:48:01,550 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:01,551 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 01:48:02,045 - ####################################################################################################
+DEBUG 2021-10-15 01:48:02,051 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:02,051 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 01:48:02,622 - ####################################################################################################
+DEBUG 2021-10-15 01:48:02,628 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:02,628 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 01:48:28,995 - ####################################################################################################
+DEBUG 2021-10-15 01:48:29,001 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:29,001 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 01:48:29,303 - ####################################################################################################
+DEBUG 2021-10-15 01:48:29,309 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:29,309 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 01:48:32,695 - ####################################################################################################
+DEBUG 2021-10-15 01:48:32,700 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:32,700 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 01:48:33,619 - ####################################################################################################
+DEBUG 2021-10-15 01:48:33,624 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 01:48:33,624 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 02:43:34,179 - ####################################################################################################
+DEBUG 2021-10-15 02:43:34,185 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:43:34,185 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 02:43:34,474 - ####################################################################################################
+DEBUG 2021-10-15 02:43:34,480 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:43:34,480 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 02:48:01,443 - ####################################################################################################
+DEBUG 2021-10-15 02:48:01,449 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:01,449 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 02:48:02,259 - ####################################################################################################
+DEBUG 2021-10-15 02:48:02,264 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:02,265 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 02:48:03,244 - ####################################################################################################
+DEBUG 2021-10-15 02:48:03,251 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:03,251 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 02:48:04,034 - ####################################################################################################
+DEBUG 2021-10-15 02:48:04,040 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:04,040 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 02:48:28,316 - ####################################################################################################
+DEBUG 2021-10-15 02:48:28,322 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:28,322 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 02:48:29,215 - ####################################################################################################
+DEBUG 2021-10-15 02:48:29,222 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:29,222 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 02:48:31,887 - ####################################################################################################
+DEBUG 2021-10-15 02:48:31,893 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:31,893 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 02:48:33,053 - ####################################################################################################
+DEBUG 2021-10-15 02:48:33,060 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 02:48:33,060 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 03:43:34,324 - ####################################################################################################
+DEBUG 2021-10-15 03:43:34,330 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:43:34,330 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 03:43:34,893 - ####################################################################################################
+DEBUG 2021-10-15 03:43:34,899 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:43:34,899 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 03:47:58,658 - ####################################################################################################
+DEBUG 2021-10-15 03:47:58,664 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:47:58,664 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 03:48:00,191 - ####################################################################################################
+DEBUG 2021-10-15 03:48:00,198 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:00,198 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 03:48:00,566 - ####################################################################################################
+DEBUG 2021-10-15 03:48:00,571 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:00,571 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 03:48:01,300 - ####################################################################################################
+DEBUG 2021-10-15 03:48:01,306 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:01,306 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 03:48:30,223 - ####################################################################################################
+DEBUG 2021-10-15 03:48:30,228 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:30,229 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 03:48:31,448 - ####################################################################################################
+DEBUG 2021-10-15 03:48:31,453 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:31,453 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 03:48:33,073 - ####################################################################################################
+DEBUG 2021-10-15 03:48:33,078 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:33,079 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 03:48:34,501 - ####################################################################################################
+DEBUG 2021-10-15 03:48:34,507 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 03:48:34,508 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 04:43:35,201 - ####################################################################################################
+DEBUG 2021-10-15 04:43:35,207 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:43:35,207 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 04:43:35,890 - ####################################################################################################
+DEBUG 2021-10-15 04:43:35,896 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:43:35,896 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 04:48:00,361 - ####################################################################################################
+DEBUG 2021-10-15 04:48:00,368 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:00,368 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 04:48:00,398 - ####################################################################################################
+DEBUG 2021-10-15 04:48:00,404 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:00,404 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 04:48:00,432 - ####################################################################################################
+DEBUG 2021-10-15 04:48:00,437 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:00,437 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 04:48:00,909 - ####################################################################################################
+DEBUG 2021-10-15 04:48:00,916 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:00,916 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 04:48:31,792 - ####################################################################################################
+DEBUG 2021-10-15 04:48:31,798 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:31,798 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 04:48:33,444 - ####################################################################################################
+DEBUG 2021-10-15 04:48:33,451 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:33,451 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 04:48:36,199 - ####################################################################################################
+DEBUG 2021-10-15 04:48:36,205 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:36,205 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 04:48:38,943 - ####################################################################################################
+DEBUG 2021-10-15 04:48:38,948 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 04:48:38,949 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 05:43:33,811 - ####################################################################################################
+DEBUG 2021-10-15 05:43:33,816 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:43:33,817 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 05:43:33,947 - ####################################################################################################
+DEBUG 2021-10-15 05:43:33,952 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:43:33,953 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 05:47:59,911 - ####################################################################################################
+DEBUG 2021-10-15 05:47:59,918 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:47:59,918 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 05:48:01,164 - ####################################################################################################
+DEBUG 2021-10-15 05:48:01,170 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:01,170 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 05:48:01,615 - ####################################################################################################
+DEBUG 2021-10-15 05:48:01,620 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:01,620 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 05:48:02,104 - ####################################################################################################
+DEBUG 2021-10-15 05:48:02,110 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:02,111 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 05:48:30,653 - ####################################################################################################
+DEBUG 2021-10-15 05:48:30,659 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:30,659 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 05:48:31,659 - ####################################################################################################
+DEBUG 2021-10-15 05:48:31,665 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:31,665 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 05:48:34,610 - ####################################################################################################
+DEBUG 2021-10-15 05:48:34,618 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:34,618 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 05:48:36,343 - ####################################################################################################
+DEBUG 2021-10-15 05:48:36,349 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 05:48:36,349 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 06:43:35,138 - ####################################################################################################
+DEBUG 2021-10-15 06:43:35,143 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:43:35,143 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 06:43:35,174 - ####################################################################################################
+DEBUG 2021-10-15 06:43:35,179 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:43:35,179 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 06:48:02,697 - ####################################################################################################
+DEBUG 2021-10-15 06:48:02,703 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:02,703 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 06:48:03,000 - ####################################################################################################
+DEBUG 2021-10-15 06:48:03,006 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:03,006 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 06:48:03,485 - ####################################################################################################
+DEBUG 2021-10-15 06:48:03,490 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:03,491 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 06:48:03,598 - ####################################################################################################
+DEBUG 2021-10-15 06:48:03,603 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:03,603 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 06:48:28,812 - ####################################################################################################
+DEBUG 2021-10-15 06:48:28,818 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:28,818 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 06:48:29,614 - ####################################################################################################
+DEBUG 2021-10-15 06:48:29,621 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:29,621 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 06:48:34,838 - ####################################################################################################
+DEBUG 2021-10-15 06:48:34,844 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:34,845 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 06:48:35,713 - ####################################################################################################
+DEBUG 2021-10-15 06:48:35,719 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:48:35,719 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 06:56:23,831 - ####################################################################################################
+DEBUG 2021-10-15 06:56:23,837 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 06:56:23,838 - {
+    "DOMAIN": "delivip1.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 79
+}
+DEBUG 2021-10-15 07:43:36,453 - ####################################################################################################
+DEBUG 2021-10-15 07:43:36,459 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:43:36,459 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 07:43:36,988 - ####################################################################################################
+DEBUG 2021-10-15 07:43:36,994 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:43:36,994 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 07:47:59,482 - ####################################################################################################
+DEBUG 2021-10-15 07:47:59,487 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:47:59,487 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 07:48:00,705 - ####################################################################################################
+DEBUG 2021-10-15 07:48:00,710 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:00,710 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 07:48:01,143 - ####################################################################################################
+DEBUG 2021-10-15 07:48:01,149 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:01,150 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 07:48:02,274 - ####################################################################################################
+DEBUG 2021-10-15 07:48:02,280 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:02,280 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 07:48:27,886 - ####################################################################################################
+DEBUG 2021-10-15 07:48:27,892 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:27,892 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 07:48:28,783 - ####################################################################################################
+DEBUG 2021-10-15 07:48:28,788 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:28,789 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 07:48:30,670 - ####################################################################################################
+DEBUG 2021-10-15 07:48:30,675 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:30,676 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 07:48:30,774 - ####################################################################################################
+DEBUG 2021-10-15 07:48:30,779 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 07:48:30,779 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 08:43:33,719 - ####################################################################################################
+DEBUG 2021-10-15 08:43:33,725 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:43:33,725 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 08:43:34,163 - ####################################################################################################
+DEBUG 2021-10-15 08:43:34,169 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:43:34,169 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 08:47:59,442 - ####################################################################################################
+DEBUG 2021-10-15 08:47:59,448 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:47:59,448 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 08:47:59,500 - ####################################################################################################
+DEBUG 2021-10-15 08:47:59,505 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:47:59,505 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 08:47:59,924 - ####################################################################################################
+DEBUG 2021-10-15 08:47:59,930 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:47:59,930 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 08:47:59,968 - ####################################################################################################
+DEBUG 2021-10-15 08:47:59,973 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:47:59,974 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 08:48:32,042 - ####################################################################################################
+DEBUG 2021-10-15 08:48:32,049 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:48:32,049 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 08:48:32,071 - ####################################################################################################
+DEBUG 2021-10-15 08:48:32,077 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:48:32,077 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 08:48:36,347 - ####################################################################################################
+DEBUG 2021-10-15 08:48:36,354 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:48:36,354 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 08:48:38,169 - ####################################################################################################
+DEBUG 2021-10-15 08:48:38,175 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 08:48:38,175 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 09:43:35,533 - ####################################################################################################
+DEBUG 2021-10-15 09:43:35,538 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:43:35,538 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 09:43:35,944 - ####################################################################################################
+DEBUG 2021-10-15 09:43:35,950 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:43:35,950 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 09:47:57,559 - ####################################################################################################
+DEBUG 2021-10-15 09:47:57,565 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:47:57,566 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 09:47:58,622 - ####################################################################################################
+DEBUG 2021-10-15 09:47:58,627 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:47:58,627 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 09:47:59,297 - ####################################################################################################
+DEBUG 2021-10-15 09:47:59,303 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:47:59,304 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 09:47:59,843 - ####################################################################################################
+DEBUG 2021-10-15 09:47:59,848 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:47:59,848 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 09:48:29,749 - ####################################################################################################
+DEBUG 2021-10-15 09:48:29,755 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:48:29,755 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 09:48:31,304 - ####################################################################################################
+DEBUG 2021-10-15 09:48:31,309 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:48:31,309 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 09:48:36,492 - ####################################################################################################
+DEBUG 2021-10-15 09:48:36,498 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:48:36,498 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 09:48:38,568 - ####################################################################################################
+DEBUG 2021-10-15 09:48:38,573 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 09:48:38,574 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 10:43:35,571 - ####################################################################################################
+DEBUG 2021-10-15 10:43:35,577 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:43:35,577 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 10:43:36,183 - ####################################################################################################
+DEBUG 2021-10-15 10:43:36,188 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:43:36,188 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 10:47:57,641 - ####################################################################################################
+DEBUG 2021-10-15 10:47:57,648 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:47:57,648 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 10:47:59,468 - ####################################################################################################
+DEBUG 2021-10-15 10:47:59,474 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:47:59,474 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 10:48:00,441 - ####################################################################################################
+DEBUG 2021-10-15 10:48:00,447 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:48:00,447 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 10:48:02,016 - ####################################################################################################
+DEBUG 2021-10-15 10:48:02,021 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:48:02,022 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 10:48:30,243 - ####################################################################################################
+DEBUG 2021-10-15 10:48:30,249 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:48:30,249 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 10:48:30,763 - ####################################################################################################
+DEBUG 2021-10-15 10:48:30,769 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:48:30,770 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 10:48:35,675 - ####################################################################################################
+DEBUG 2021-10-15 10:48:35,681 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:48:35,681 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 10:48:36,638 - ####################################################################################################
+DEBUG 2021-10-15 10:48:36,646 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 10:48:36,646 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 11:43:35,112 - ####################################################################################################
+DEBUG 2021-10-15 11:43:35,117 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:43:35,117 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 11:43:35,774 - ####################################################################################################
+DEBUG 2021-10-15 11:43:35,779 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:43:35,779 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 11:47:58,225 - ####################################################################################################
+DEBUG 2021-10-15 11:47:58,231 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:47:58,231 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 11:47:58,761 - ####################################################################################################
+DEBUG 2021-10-15 11:47:58,767 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:47:58,767 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 11:47:58,935 - ####################################################################################################
+DEBUG 2021-10-15 11:47:58,940 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:47:58,941 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 11:47:59,502 - ####################################################################################################
+DEBUG 2021-10-15 11:47:59,508 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:47:59,508 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 11:48:29,886 - ####################################################################################################
+DEBUG 2021-10-15 11:48:29,892 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:48:29,892 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 11:48:31,223 - ####################################################################################################
+DEBUG 2021-10-15 11:48:31,229 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:48:31,229 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 11:48:37,445 - ####################################################################################################
+DEBUG 2021-10-15 11:48:37,450 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:48:37,450 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 11:48:38,183 - ####################################################################################################
+DEBUG 2021-10-15 11:48:38,189 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 11:48:38,189 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 12:43:36,207 - ####################################################################################################
+DEBUG 2021-10-15 12:43:36,213 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:43:36,213 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 12:43:36,743 - ####################################################################################################
+DEBUG 2021-10-15 12:43:36,748 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:43:36,749 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 12:48:00,812 - ####################################################################################################
+DEBUG 2021-10-15 12:48:00,817 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:00,817 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 12:48:00,861 - ####################################################################################################
+DEBUG 2021-10-15 12:48:00,866 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:00,867 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 12:48:01,328 - ####################################################################################################
+DEBUG 2021-10-15 12:48:01,334 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:01,334 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 12:48:01,512 - ####################################################################################################
+DEBUG 2021-10-15 12:48:01,518 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:01,518 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 12:48:31,181 - ####################################################################################################
+DEBUG 2021-10-15 12:48:31,187 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:31,187 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 12:48:32,213 - ####################################################################################################
+DEBUG 2021-10-15 12:48:32,219 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:32,219 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 12:48:35,300 - ####################################################################################################
+DEBUG 2021-10-15 12:48:35,307 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:35,307 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 12:48:36,028 - ####################################################################################################
+DEBUG 2021-10-15 12:48:36,032 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 12:48:36,033 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 13:43:37,372 - ####################################################################################################
+DEBUG 2021-10-15 13:43:37,377 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:43:37,377 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 13:43:37,518 - ####################################################################################################
+DEBUG 2021-10-15 13:43:37,524 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:43:37,525 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 13:48:01,622 - ####################################################################################################
+DEBUG 2021-10-15 13:48:01,627 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:01,628 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 13:48:01,749 - ####################################################################################################
+DEBUG 2021-10-15 13:48:01,754 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:01,754 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 13:48:02,090 - ####################################################################################################
+DEBUG 2021-10-15 13:48:02,095 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:02,095 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 13:48:02,218 - ####################################################################################################
+DEBUG 2021-10-15 13:48:02,224 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:02,224 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 13:48:29,733 - ####################################################################################################
+DEBUG 2021-10-15 13:48:29,739 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:29,740 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 13:48:31,107 - ####################################################################################################
+DEBUG 2021-10-15 13:48:31,114 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:31,114 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 13:48:34,897 - ####################################################################################################
+DEBUG 2021-10-15 13:48:34,903 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:34,903 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 13:48:36,496 - ####################################################################################################
+DEBUG 2021-10-15 13:48:36,502 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 13:48:36,503 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 14:43:36,306 - ####################################################################################################
+DEBUG 2021-10-15 14:43:36,312 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:43:36,312 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 14:43:36,916 - ####################################################################################################
+DEBUG 2021-10-15 14:43:36,921 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:43:36,921 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 14:47:59,502 - ####################################################################################################
+DEBUG 2021-10-15 14:47:59,508 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:47:59,508 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 14:48:00,903 - ####################################################################################################
+DEBUG 2021-10-15 14:48:00,908 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:00,908 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 14:48:03,047 - ####################################################################################################
+DEBUG 2021-10-15 14:48:03,053 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:03,053 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 14:48:04,104 - ####################################################################################################
+DEBUG 2021-10-15 14:48:04,110 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:04,110 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 14:48:28,684 - ####################################################################################################
+DEBUG 2021-10-15 14:48:28,691 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:28,692 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 14:48:29,990 - ####################################################################################################
+DEBUG 2021-10-15 14:48:29,996 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:29,996 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 14:48:33,580 - ####################################################################################################
+DEBUG 2021-10-15 14:48:33,587 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:33,587 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 14:48:37,064 - ####################################################################################################
+DEBUG 2021-10-15 14:48:37,070 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 14:48:37,070 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 86
+}
+DEBUG 2021-10-15 15:43:34,983 - ####################################################################################################
+DEBUG 2021-10-15 15:43:34,988 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:43:34,988 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 15:43:36,877 - ####################################################################################################
+DEBUG 2021-10-15 15:43:36,883 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:43:36,883 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 11
+}
+DEBUG 2021-10-15 15:48:00,001 - ####################################################################################################
+DEBUG 2021-10-15 15:48:00,007 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:00,007 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 15:48:00,351 - ####################################################################################################
+DEBUG 2021-10-15 15:48:00,356 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:00,357 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 15:48:01,069 - ####################################################################################################
+DEBUG 2021-10-15 15:48:01,075 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:01,075 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 15:48:01,823 - ####################################################################################################
+DEBUG 2021-10-15 15:48:01,829 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:01,829 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 15:48:30,268 - ####################################################################################################
+DEBUG 2021-10-15 15:48:30,273 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:30,273 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 15:48:30,669 - ####################################################################################################
+DEBUG 2021-10-15 15:48:30,676 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:30,676 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 16
+}
+DEBUG 2021-10-15 15:48:33,073 - ####################################################################################################
+DEBUG 2021-10-15 15:48:33,079 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:33,079 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 15:48:35,984 - ####################################################################################################
+DEBUG 2021-10-15 15:48:35,991 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 15:48:35,992 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 16:43:31,425 - ####################################################################################################
+DEBUG 2021-10-15 16:43:31,430 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:43:31,430 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 16:43:33,467 - ####################################################################################################
+DEBUG 2021-10-15 16:43:33,472 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:43:33,473 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 16:48:03,431 - ####################################################################################################
+DEBUG 2021-10-15 16:48:03,436 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:03,436 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 16:48:03,836 - ####################################################################################################
+DEBUG 2021-10-15 16:48:03,842 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:03,842 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 16:48:03,877 - ####################################################################################################
+DEBUG 2021-10-15 16:48:03,882 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:03,883 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 16:48:04,596 - ####################################################################################################
+DEBUG 2021-10-15 16:48:04,601 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:04,602 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 16:48:30,609 - ####################################################################################################
+DEBUG 2021-10-15 16:48:30,614 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:30,615 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 16:48:31,148 - ####################################################################################################
+DEBUG 2021-10-15 16:48:31,154 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:31,154 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 16:48:33,644 - ####################################################################################################
+DEBUG 2021-10-15 16:48:33,649 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:33,650 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 16:48:36,582 - ####################################################################################################
+DEBUG 2021-10-15 16:48:36,587 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 16:48:36,587 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 17:43:33,257 - ####################################################################################################
+DEBUG 2021-10-15 17:43:33,263 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:43:33,263 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 17:43:34,510 - ####################################################################################################
+DEBUG 2021-10-15 17:43:34,516 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:43:34,516 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 17:47:59,194 - ####################################################################################################
+DEBUG 2021-10-15 17:47:59,200 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:47:59,200 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 17:48:00,426 - ####################################################################################################
+DEBUG 2021-10-15 17:48:00,431 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:00,432 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 17:48:00,447 - ####################################################################################################
+DEBUG 2021-10-15 17:48:00,453 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:00,453 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 17:48:01,062 - ####################################################################################################
+DEBUG 2021-10-15 17:48:01,069 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:01,069 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 17:48:31,374 - ####################################################################################################
+DEBUG 2021-10-15 17:48:31,379 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:31,379 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 17:48:33,202 - ####################################################################################################
+DEBUG 2021-10-15 17:48:33,208 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:33,208 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 17:48:35,193 - ####################################################################################################
+DEBUG 2021-10-15 17:48:35,199 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:35,199 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 17:48:38,438 - ####################################################################################################
+DEBUG 2021-10-15 17:48:38,444 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 17:48:38,445 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 18:43:35,947 - ####################################################################################################
+DEBUG 2021-10-15 18:43:35,953 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:43:35,953 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 18:43:38,200 - ####################################################################################################
+DEBUG 2021-10-15 18:43:38,207 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:43:38,207 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 18:48:00,739 - ####################################################################################################
+DEBUG 2021-10-15 18:48:00,747 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:00,748 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 18:48:01,278 - ####################################################################################################
+DEBUG 2021-10-15 18:48:01,283 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:01,284 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 18:48:01,853 - ####################################################################################################
+DEBUG 2021-10-15 18:48:01,858 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:01,859 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 18:48:02,391 - ####################################################################################################
+DEBUG 2021-10-15 18:48:02,397 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:02,398 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 18:48:32,052 - ####################################################################################################
+DEBUG 2021-10-15 18:48:32,057 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:32,058 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 18:48:32,522 - ####################################################################################################
+DEBUG 2021-10-15 18:48:32,527 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:32,528 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 18:48:34,917 - ####################################################################################################
+DEBUG 2021-10-15 18:48:34,922 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:34,923 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 18:48:35,643 - ####################################################################################################
+DEBUG 2021-10-15 18:48:35,648 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 18:48:35,648 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 19:43:35,665 - ####################################################################################################
+DEBUG 2021-10-15 19:43:35,671 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:43:35,672 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 19:43:36,263 - ####################################################################################################
+DEBUG 2021-10-15 19:43:36,269 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:43:36,270 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 19:47:58,567 - ####################################################################################################
+DEBUG 2021-10-15 19:47:58,573 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:47:58,573 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 19:48:00,278 - ####################################################################################################
+DEBUG 2021-10-15 19:48:00,283 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:00,283 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 19:48:02,439 - ####################################################################################################
+DEBUG 2021-10-15 19:48:02,444 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:02,444 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 19:48:02,520 - ####################################################################################################
+DEBUG 2021-10-15 19:48:02,525 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:02,526 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 19:48:29,124 - ####################################################################################################
+DEBUG 2021-10-15 19:48:29,130 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:29,130 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 19:48:31,097 - ####################################################################################################
+DEBUG 2021-10-15 19:48:31,103 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:31,103 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 19:48:34,639 - ####################################################################################################
+DEBUG 2021-10-15 19:48:34,645 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:34,645 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 19:48:37,081 - ####################################################################################################
+DEBUG 2021-10-15 19:48:37,087 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 19:48:37,087 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 20:43:33,951 - ####################################################################################################
+DEBUG 2021-10-15 20:43:33,957 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:43:33,957 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 20:43:35,322 - ####################################################################################################
+DEBUG 2021-10-15 20:43:35,327 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:43:35,328 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 20:48:01,948 - ####################################################################################################
+DEBUG 2021-10-15 20:48:01,952 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:01,953 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 20:48:02,637 - ####################################################################################################
+DEBUG 2021-10-15 20:48:02,643 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:02,643 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 20:48:02,934 - ####################################################################################################
+DEBUG 2021-10-15 20:48:02,939 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:02,939 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 20:48:11,935 - ####################################################################################################
+DEBUG 2021-10-15 20:48:11,940 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:11,940 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 20:48:30,632 - ####################################################################################################
+DEBUG 2021-10-15 20:48:30,638 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:30,638 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 20:48:32,435 - ####################################################################################################
+DEBUG 2021-10-15 20:48:32,441 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:32,441 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 20:48:35,281 - ####################################################################################################
+DEBUG 2021-10-15 20:48:35,288 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:35,288 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 20:48:36,741 - ####################################################################################################
+DEBUG 2021-10-15 20:48:36,746 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 20:48:36,746 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 21:43:33,928 - ####################################################################################################
+DEBUG 2021-10-15 21:43:33,934 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:43:33,934 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 21:43:35,005 - ####################################################################################################
+DEBUG 2021-10-15 21:43:35,011 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:43:35,012 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 21:48:03,300 - ####################################################################################################
+DEBUG 2021-10-15 21:48:03,306 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:03,306 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 21:48:03,440 - ####################################################################################################
+DEBUG 2021-10-15 21:48:03,445 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:03,445 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 21:48:03,633 - ####################################################################################################
+DEBUG 2021-10-15 21:48:03,638 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:03,638 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 21:48:03,848 - ####################################################################################################
+DEBUG 2021-10-15 21:48:03,854 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:03,854 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 21:48:30,884 - ####################################################################################################
+DEBUG 2021-10-15 21:48:30,888 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:30,889 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 21:48:32,465 - ####################################################################################################
+DEBUG 2021-10-15 21:48:32,471 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:32,471 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 21:48:34,747 - ####################################################################################################
+DEBUG 2021-10-15 21:48:34,753 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:34,753 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 21:48:36,563 - ####################################################################################################
+DEBUG 2021-10-15 21:48:36,568 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 21:48:36,568 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 22:43:36,601 - ####################################################################################################
+DEBUG 2021-10-15 22:43:36,608 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:43:36,608 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 22:43:37,459 - ####################################################################################################
+DEBUG 2021-10-15 22:43:37,465 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:43:37,465 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 22:47:59,087 - ####################################################################################################
+DEBUG 2021-10-15 22:47:59,092 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:47:59,093 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 22:47:59,159 - ####################################################################################################
+DEBUG 2021-10-15 22:47:59,165 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:47:59,165 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 22:47:59,863 - ####################################################################################################
+DEBUG 2021-10-15 22:47:59,868 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:47:59,868 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 22:48:00,233 - ####################################################################################################
+DEBUG 2021-10-15 22:48:00,240 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:48:00,240 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 22:48:30,360 - ####################################################################################################
+DEBUG 2021-10-15 22:48:30,365 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:48:30,366 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 22:48:30,493 - ####################################################################################################
+DEBUG 2021-10-15 22:48:30,499 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:48:30,499 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 22:48:33,775 - ####################################################################################################
+DEBUG 2021-10-15 22:48:33,780 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:48:33,780 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 22:48:35,158 - ####################################################################################################
+DEBUG 2021-10-15 22:48:35,164 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 22:48:35,165 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 23:43:34,284 - ####################################################################################################
+DEBUG 2021-10-15 23:43:34,290 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:43:34,290 - {
+    "DOMAIN": "aaa9409.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 23:43:35,883 - ####################################################################################################
+DEBUG 2021-10-15 23:43:35,888 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:43:35,888 - {
+    "DOMAIN": "aaa9410.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 10
+}
+DEBUG 2021-10-15 23:48:01,947 - ####################################################################################################
+DEBUG 2021-10-15 23:48:01,953 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:01,953 - {
+    "DOMAIN": "v2r-hk1.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 23:48:03,747 - ####################################################################################################
+DEBUG 2021-10-15 23:48:03,752 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:03,753 - {
+    "DOMAIN": "v2r-hk2.zhubb.top", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 23:48:03,830 - ####################################################################################################
+DEBUG 2021-10-15 23:48:03,836 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:03,836 - {
+    "DOMAIN": "www.aidedao.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 14
+}
+DEBUG 2021-10-15 23:48:04,452 - ####################################################################################################
+DEBUG 2021-10-15 23:48:04,457 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:04,458 - {
+    "DOMAIN": "neweb.me", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 84
+}
+DEBUG 2021-10-15 23:48:30,130 - ####################################################################################################
+DEBUG 2021-10-15 23:48:30,135 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:30,136 - {
+    "DOMAIN": "wsw4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 23:48:30,283 - ####################################################################################################
+DEBUG 2021-10-15 23:48:30,289 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:30,289 - {
+    "DOMAIN": "gts4.lxzzs.cn", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 15
+}
+DEBUG 2021-10-15 23:48:32,339 - ####################################################################################################
+DEBUG 2021-10-15 23:48:32,344 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:32,345 - {
+    "DOMAIN": "sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}
+DEBUG 2021-10-15 23:48:33,432 - ####################################################################################################
+DEBUG 2021-10-15 23:48:33,438 - DOMAIN PYTHON ERROR
+INFO 2021-10-15 23:48:33,438 - {
+    "DOMAIN": "www.sabongarenas.com", 
+    "PYTHON ERROR": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:618)", 
+    "DOMAIN_CURL": 85
+}

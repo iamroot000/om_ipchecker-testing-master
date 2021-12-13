@@ -1,0 +1,537 @@
+DEBUG 2021-07-08 00:08:49,014 - ####################################################################################################
+DEBUG 2021-07-08 00:08:49,020 - DOMAIN DISCOVER
+INFO 2021-07-08 00:08:49,020 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tochat333.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 01:08:55,949 - ####################################################################################################
+DEBUG 2021-07-08 01:08:55,956 - DOMAIN DISCOVER
+INFO 2021-07-08 01:08:55,957 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tochat333.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 02:08:52,303 - ####################################################################################################
+DEBUG 2021-07-08 02:08:52,309 - DOMAIN DISCOVER
+INFO 2021-07-08 02:08:52,309 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tochat333.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 03:08:50,131 - ####################################################################################################
+DEBUG 2021-07-08 03:08:50,136 - DOMAIN DISCOVER
+INFO 2021-07-08 03:08:50,137 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tochat333.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 04:08:50,315 - ####################################################################################################
+DEBUG 2021-07-08 04:08:50,321 - DOMAIN DISCOVER
+INFO 2021-07-08 04:08:50,322 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tochat333.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 05:08:49,457 - ####################################################################################################
+DEBUG 2021-07-08 05:08:49,464 - DOMAIN DISCOVER
+INFO 2021-07-08 05:08:49,464 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "36516833.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu88888.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu005.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "ebcn.xshny.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "bbyz88.net"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu2015.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu2015.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu2017.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu2017.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu2018.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu2018.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu522.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu522.cn"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 06:08:56,187 - ####################################################################################################
+DEBUG 2021-07-08 06:08:56,193 - DOMAIN DISCOVER
+INFO 2021-07-08 06:08:56,193 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "cmb666.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jin172.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.jsh521.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 07:08:49,820 - ####################################################################################################
+DEBUG 2021-07-08 07:08:49,828 - DOMAIN DISCOVER
+INFO 2021-07-08 07:08:49,828 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 10:09:12,537 - ####################################################################################################
+DEBUG 2021-07-08 10:09:12,543 - DOMAIN DISCOVER
+INFO 2021-07-08 10:09:12,543 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 11:08:54,361 - ####################################################################################################
+DEBUG 2021-07-08 11:08:54,367 - DOMAIN DISCOVER
+INFO 2021-07-08 11:08:54,368 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 14:09:51,476 - ####################################################################################################
+DEBUG 2021-07-08 14:09:51,482 - DOMAIN DISCOVER
+INFO 2021-07-08 14:09:51,483 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 19:08:52,736 - ####################################################################################################
+DEBUG 2021-07-08 19:08:52,742 - DOMAIN DISCOVER
+INFO 2021-07-08 19:08:52,742 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 20:08:54,395 - ####################################################################################################
+DEBUG 2021-07-08 20:08:54,400 - DOMAIN DISCOVER
+INFO 2021-07-08 20:08:54,400 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 21:08:54,232 - ####################################################################################################
+DEBUG 2021-07-08 21:08:54,239 - DOMAIN DISCOVER
+INFO 2021-07-08 21:08:54,239 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 22:08:56,141 - ####################################################################################################
+DEBUG 2021-07-08 22:08:56,148 - DOMAIN DISCOVER
+INFO 2021-07-08 22:08:56,148 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
+DEBUG 2021-07-08 23:08:51,473 - ####################################################################################################
+DEBUG 2021-07-08 23:08:51,479 - DOMAIN DISCOVER
+INFO 2021-07-08 23:08:51,479 - {
+    "data": [
+        {
+            "{#DOMAINSSL}": "12859999.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "12899888.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "tv36.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu1988.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu211.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu664.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "eu686.com"
+        }, 
+        {
+            "{#DOMAINSSL}": "www.eu686.com"
+        }
+    ]
+}
